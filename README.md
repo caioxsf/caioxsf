@@ -2,7 +2,7 @@
 
 <p align="center">
   Desenvolvedor full stack, fundador da <a href="https://nobilesolutions.com.br">Nobile Solutions</a>.<br/>
-  Crio sistemas web, SaaS e automações com IA.
+  Crio sistemas web, SaaS e automações com IA — do back-end ao deploy.
 </p>
 
 ###
@@ -19,19 +19,33 @@
 <table align="center">
   <tr>
     <td width="33%" valign="top">
+      <p align="center">
+        <a href="https://kdsticket.com.br">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="./assets/kdsticket-dark.png" />
+            <img src="./assets/kdsticket-light.png" height="40" alt="KDS Ticket" />
+          </picture>
+        </a>
+      </p>
       <h4>🎟️ <a href="https://kdsticket.com.br">KDS Ticket</a></h4>
       Plataforma de venda de ingressos para eventos, com checkout, split de pagamento, check-in e painel do produtor.
       <br/><br/>
       <sub><b>TypeScript · Node.js · Express · PostgreSQL · Redis · Next.js · Tailwind</b></sub>
     </td>
     <td width="33%" valign="top">
+      <p align="center">
+        <a href="https://alpinefinance.com"><img src="./assets/alpine-finance.png" height="40" alt="Alpine Finance" /></a>
+      </p>
       <h4>🧗 <a href="https://alpinefinance.com">Alpine Finance</a></h4>
       Controle financeiro pelo WhatsApp com IA: manda "gastei 50 no mercado" e ela anota, categoriza e responde suas dúvidas. Inclui painel web com gráficos.
       <br/><br/>
       <sub><b>TypeScript · Express · MongoDB · Next.js · IA</b></sub>
     </td>
     <td width="33%" valign="top">
-      <h4>💼 <a href="https://nobilesolutions.com.br">Nobile Dev Solutions</a></h4>
+      <p align="center">
+        <a href="https://nobilesolutions.com.br"><img src="./assets/nobile-solutions.png" height="40" alt="Nobile Solutions" /></a>
+      </p>
+      <h4>💼 <a href="https://nobilesolutions.com.br">Nobile Solutions</a></h4>
       Minha empresa de desenvolvimento de software e automações com IA — sites, sistemas sob medida e integrações.
       <br/><br/>
       <sub><b>Next.js · TypeScript · Tailwind · Framer Motion</b></sub>
