@@ -1,8 +1,8 @@
 <h2 align="center">Olá 👋! Eu sou o Caio!</h2>
 
 <p align="center">
-  Desenvolvedor full stack, fundador da <a href="https://nobilesolutions.com.br">Nobile Dev Solutions</a>.<br/>
-  Crio sistemas web, SaaS e automações com IA — do back-end ao deploy.
+  Desenvolvedor full stack, fundador da <a href="https://nobilesolutions.com.br">Nobile Solutions</a>.<br/>
+  Crio sistemas web, SaaS e automações com IA.
 </p>
 
 ###
