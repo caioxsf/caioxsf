@@ -2,7 +2,7 @@
 
 <p align="center">
   Desenvolvedor full stack, fundador da <a href="https://nobilesolutions.com.br">Nobile Solutions</a>.<br/>
-  Crio sistemas web, SaaS e automações com IA — do back-end ao deploy.
+  Crio sistemas web, SaaS e automações com IA.
 </p>
 
 ###
